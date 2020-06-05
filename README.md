@@ -1,2 +1,2 @@
-# Python
-파이썬 연습하기
+# Algorithm
+알고리즘 
